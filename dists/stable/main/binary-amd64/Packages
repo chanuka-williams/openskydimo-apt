@@ -1,15 +1,15 @@
 Package: openskydimo
 Architecture: amd64
-Depends: libc6, libc6 (>= 2.42), libgcc-s1 (>= 4.3), libstdc++6 (>= 14)
+Depends: libc6, systemd, libc6 (>= 2.42), libgcc-s1 (>= 4.3), libstdc++6 (>= 14)
 Priority: optional
 Section: utils
-Filename: pool/main/o/openskydimo/openskydimo_1.0.0_amd64.deb
-Size: 542808
-SHA256: 5f8990274850a17a6df9b54cec57e88a1650bcb7cdb1d2dd15b0e98f96c53c50
-SHA1: e03e07c10848710967b1c1329b5800ea639394a6
-MD5sum: 05e0f639eff54b381b82dcf8be2098ab
+Filename: pool/main/o/openskydimo/openskydimo_1.0.1_amd64.deb
+Size: 542974
+SHA256: 4ea2cbea453b42e016d3a8e60a5d96775aa28d93a9f5a26aa45029aabff35283
+SHA1: 45b34541b1ba6738d5cb7f1dd88b566d1c963f50
+MD5sum: 4baa6420cd62b930ae9fb694ac43d9fc
 Description: OpenSkydimo ambient lighting daemon
 Maintainer: chanuka.williams@outlook.com
-Version: 1.0.0
+Version: 1.0.1
 Installed-Size: 1448
 
