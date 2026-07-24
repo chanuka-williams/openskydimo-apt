@@ -1,0 +1,5 @@
+Component: main
+Origin: OpenSkydimo
+Label: OpenSkydimo
+Architecture: amd64
+Description: OpenSkydimo apt repository

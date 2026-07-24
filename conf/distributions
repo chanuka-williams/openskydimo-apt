@@ -1,0 +1,7 @@
+Origin: OpenSkydimo
+Label: OpenSkydimo
+Codename: stable
+Architectures: amd64
+Components: main
+Description: OpenSkydimo apt repository
+SignWith: 1B9F1931744BB34C

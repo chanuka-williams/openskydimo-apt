@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: OpenSkydimo
+Label: OpenSkydimo
+Codename: stable
+Date: Fri, 24 Jul 2026 00:27:01 UTC
+Architectures: amd64
+Components: main
+Description: OpenSkydimo apt repository
+MD5Sum:
+ 5d43874f8b90c085634d987ef8c64228 510 main/binary-amd64/Packages
+ 57a16b42ca326147de6b6a9fe3360e9a 377 main/binary-amd64/Packages.gz
+ b7b0c8f952a24b5e3a4df83c80f85d99 115 main/binary-amd64/Release
+SHA1:
+ 5a72e12c90c312abf6ef22273ecbf10dad6bf271 510 main/binary-amd64/Packages
+ 6902b3a48f3285bebdbc3a482e12a77429aad989 377 main/binary-amd64/Packages.gz
+ 9b9073d24c505b1fdf517814c0368c3a939e67c7 115 main/binary-amd64/Release
+SHA256:
+ 062a2aad77533cde6ebb8b78a6c4f6379b5f9ec796966bd637a97b36e4d24c8c 510 main/binary-amd64/Packages
+ bb8139e730b5135e726840837aaca49ae35160b8dc635899fe2056e3fe6855aa 377 main/binary-amd64/Packages.gz
+ 78578bab0b1a71755e3c6c53e5a4898455e2850b5cf0e595a859e9be1df86cf8 115 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEcfAonTGG1qVK1L4EG58ZMXRLs0wFAmpisWEACgkQG58ZMXRL
+s0xeEw/9EfG46tJ9XzpgNE5twfd7LfpY2O9QSciU5s26oPf7iAhMjQuco6bCORBy
+hvIJhjE0JrNhpFErJo99jJa3Rpch1MS4ldWNALgOPVW47MPNBh38HyzBonElusgq
+Z0AMrNpyTCAOMrtJ8XTG8a4ClfILvCTRmuO8kp95/v6P4WRdXc9WXXcFO7AYi6By
+T39G3i3lacWmhwAjQp62bAL9w3OBJw61SideVe+gdFD8ZC/MCNniSSEzBdUTrq5F
+gLvU+r+r7X6wap58DeOdIDgt85yamXKOKIuk/io6PgU+fpZYLc8TO2SSdWGe/UQu
+CgvfRMC1Q808FrhPkmFOA5QDZy4a5f3hq0hbS1MOvaSKKFLaWY/S5hfF6D64knpK
+sveX5Sxsl2wuMX4HA3/W8yLiEsmPqVc6Ly787y4JpGhVOE7Pv3kP4xfjAXtyggM3
+Tk0LnOwjGmp5CTkz8rM6csYDnJbc6O0kcs2RDiMoEy37BZ71YeHyTyypPQ2fbtXC
+4yWuOm2GQ7TCwRDjq8/hvtwKAZEEsQU5IDh7hzWtnRizhrR35K+cuTnziYDOOF/Z
+IQZvEEO4m/GnfyayhwwsQQJOQQHd9jgNg+8+HKKT90vKlQObPAwptMUAj77YH89g
+CyOSGng7mRVdXp2JZeowDSIb0JcVTfkXuW03S7MgpCVV/NA/zx4=
+=83P6
+-----END PGP SIGNATURE-----
